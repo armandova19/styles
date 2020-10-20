@@ -1,0 +1,35 @@
+#cabecera{
+  color: blue;
+}
+.title_2{
+  color: red;
+  text-decoration: underline;
+}
+.second{
+  font-weight: lighter;
+}
+.tres{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  font-style: italic;
+}
+#azul{
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 0.5em;
+}
+p.prueba_grande{
+  color: aqua;
+  font-weight: lighter;
+  letter-spacing: 1em;
+}
+.article{
+  border: 2em;
+  background-color: royalblue;
+  border-radius: 1em;
+  padding: 1em;
+}
+.p{
+  letter-spacing: 1em;
+  font-size: 2ex;
+  font-style: italic;
+}
